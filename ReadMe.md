@@ -8,13 +8,13 @@ The BoAt website has been replicated using simple HTML and Tailwind CSS classes.
 
 ## Set up
 Clone the repo and in the folder run the below commands.
-bash
+```bash
 npm install
+```
 
-
-bash
+```bash
 npm run ndev
-
+```
 
 ## Contributors
 
