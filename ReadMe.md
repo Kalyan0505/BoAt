@@ -13,7 +13,7 @@ npm install
 ```
 
 ```bash
-npm run ndev
+npm run dev
 ```
 
 ## Contributors
